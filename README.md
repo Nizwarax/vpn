@@ -46,7 +46,7 @@ pip install colorama
 git clone https://github.com/Nizwarax/vpn
 ```
 ```
-cd XWan
+cd vpn
 ```
 ```
 chmod +x install.sh
