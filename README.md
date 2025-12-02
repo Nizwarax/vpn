@@ -60,7 +60,7 @@ nano list.txt
 ```
 - Masukan alamat web/ip secara berurutan dan setelah itu CTRL+X dan CTRL+Y dan ENTER
 ```
-python xwan.py
+python vpn.py
 ```
 - Selamat menggunakan toolsnya >_<
 ## Perhatian 
